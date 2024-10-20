@@ -4,7 +4,7 @@ C++사용중
 
 Solved.ac와 백준에서 공부중..
 
-solvedTear: G5
+solvedTear: G4
 
 
 
@@ -27,6 +27,7 @@ solvedTear: G5
 2024/08/15 S1
 
 2024/10/08 G5
+2024/10/20 G4
 
 2024/10/20 Class 3 달성
 

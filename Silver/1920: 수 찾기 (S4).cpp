@@ -37,3 +37,5 @@ int main()
 	
 	return 0;
 }
+
+/*https://www.acmicpc.net/problem/1920*/

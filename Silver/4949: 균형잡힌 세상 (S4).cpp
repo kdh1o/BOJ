@@ -49,3 +49,5 @@ int main()
 		else cout << "no" << endl;
 	}
 }
+
+/*https://www.acmicpc.net/problem/4949*/

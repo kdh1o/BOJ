@@ -41,3 +41,5 @@ dp[n]=dp[n-3]+dp[n-2]+dp[n-1];
 
 이제 코드를 짜보자!
 */
+
+/*https://www.acmicpc.net/problem/9095*/

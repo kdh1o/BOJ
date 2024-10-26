@@ -53,4 +53,5 @@ int main()
     return 0;
 }
 
+/*https://www.acmicpc.net/problem/1966*/
 //간단한 노가다 문제
